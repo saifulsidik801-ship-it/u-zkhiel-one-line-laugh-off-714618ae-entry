@@ -1,3 +1,4 @@
+# One-Line Laugh-Off: the password manager and its human, locked in a daily standoff.
 import os
 
 ENTRY = "My password manager forgot my password, so now every morning we just stare at each other, both pretending the other one knows it."
